@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djmwnuesms0eq"
+path="res://.godot/imported/Peaceful Seascape.mp3-857d5f5c61b048ab27a1bc4dbc0adf02.mp3str"
+
+[deps]
+
+source_file="res://Sprout Lands - Sprites - Basic pack/Sound/Peaceful Seascape.mp3"
+dest_files=["res://.godot/imported/Peaceful Seascape.mp3-857d5f5c61b048ab27a1bc4dbc0adf02.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
