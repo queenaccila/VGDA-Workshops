@@ -19,6 +19,10 @@ config/icon="res://icon.svg"
 
 window/stretch/scale=3.0
 
+[editor]
+
+movie_writer/movie_file="C:/Users/rexer/Documents/GitHub/VGDA-Workshops/Godot Platformer Workshop/video/video.avi"
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
