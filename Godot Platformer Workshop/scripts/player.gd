@@ -54,7 +54,6 @@ func _physics_process(delta):
 		animated_sprite.play("attack")
 	else:
 		hitbox.disabled = true
-		
 	move_and_slide()
 	
 
