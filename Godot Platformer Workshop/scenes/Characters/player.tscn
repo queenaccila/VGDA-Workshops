@@ -1,9 +1,26 @@
-[gd_scene load_steps=29 format=3 uid="uid://ikjl0rp82dy8"]
+[gd_scene load_steps=35 format=3 uid="uid://ikjl0rp82dy8"]
 
 [ext_resource type="Script" path="res://scripts/player.gd" id="1_ylbqr"]
 [ext_resource type="Texture2D" uid="uid://xbw0dpptk3p6" path="res://assets/Fantasy Assets/Knight/Colour2/NoOutline/120x80_PNGSheets/_JumpFallInbetween.png" id="2_1yh05"]
+[ext_resource type="Texture2D" uid="uid://bii5am5ti4i07" path="res://assets/Fantasy Assets/Knight/Colour2/NoOutline/120x80_PNGSheets/_AttackNoMovement.png" id="2_6c1r0"]
 [ext_resource type="Texture2D" uid="uid://dyjfsvw8k54r7" path="res://assets/Fantasy Assets/Knight/Colour2/NoOutline/120x80_PNGSheets/_Idle.png" id="3_pubyy"]
 [ext_resource type="Texture2D" uid="uid://ccjnxjpu1s0nt" path="res://assets/Fantasy Assets/Knight/Colour2/NoOutline/120x80_PNGSheets/_Run.png" id="4_ilosi"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7c6oi"]
+atlas = ExtResource("2_6c1r0")
+region = Rect2(0, 0, 120, 80)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gqg8p"]
+atlas = ExtResource("2_6c1r0")
+region = Rect2(120, 0, 120, 80)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ywft4"]
+atlas = ExtResource("2_6c1r0")
+region = Rect2(240, 0, 120, 80)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_f8eq1"]
+atlas = ExtResource("2_6c1r0")
+region = Rect2(360, 0, 120, 80)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_8fpwf"]
 atlas = ExtResource("2_1yh05")
@@ -97,6 +114,23 @@ region = Rect2(1080, 0, 120, 80)
 animations = [{
 "frames": [{
 "duration": 1.0,
+"texture": SubResource("AtlasTexture_7c6oi")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_gqg8p")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ywft4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_f8eq1")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 20.0
+}, {
+"frames": [{
+"duration": 1.0,
 "texture": SubResource("AtlasTexture_8fpwf")
 }],
 "loop": true,
@@ -186,6 +220,9 @@ animations = [{
 radius = 8.0
 height = 26.0
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_du50u"]
+size = Vector2(38, 27)
+
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_ylbqr")
 
@@ -193,10 +230,20 @@ script = ExtResource("1_ylbqr")
 position = Vector2(4, -14.5)
 scale = Vector2(0.933333, 0.8125)
 sprite_frames = SubResource("SpriteFrames_gwqy8")
-animation = &"run"
+animation = &"attack"
 autoplay = "idle"
-frame_progress = 0.716263
+frame_progress = 0.0968128
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-1, 3)
+position = Vector2(0, 3)
 shape = SubResource("CapsuleShape2D_1oy84")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(29, 5)
+shape = SubResource("RectangleShape2D_du50u")
+disabled = true
+
+[connection signal="animation_changed" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_changed"]
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
