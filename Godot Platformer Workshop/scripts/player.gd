@@ -7,15 +7,15 @@ const JUMP_VELOCITY = -400.0
 # Get the gravity from the project settings to be synced with RigidBody nodes.
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
-# Animation variables
+#Animation variables
 @onready var animated_sprite = $AnimatedSprite2D
 
-func _process(delta):
-	if Input.is_action_just_pressed("attack"):
-		$Area2D/CollisionShape2D.disabled = false
-		animated_sprite.animation = "attack"
-	else:
-		$Area2D/CollisionShape2D.disabled = true
+#Hitbox variable
+@onready var hitbox = $Area2D/CollisionShape2D
+
+#Player variable
+@onready var player = $"."
+
 
 func _physics_process(delta):
 	# Add the gravity.
@@ -48,6 +48,13 @@ func _physics_process(delta):
 	else:
 		velocity.x = move_toward(velocity.x, 0, SPEED)
 		
+	#Handle Attacks
+	if Input.is_action_just_pressed("attack"):
+		hitbox.disabled = false
+		animated_sprite.play("attack")
+	else:
+		hitbox.disabled = true
+		
 	move_and_slide()
 	
 
@@ -56,3 +63,8 @@ func _on_area_2d_body_entered(body):
 	if body.is_in_group("hit"):
 		body.take_damage(10) # Replace with function body.
 # Replace with function body.
+
+
+ # Replace with function body.
+
+

@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=3 uid="uid://bh48e164y2akl"]
+[gd_scene load_steps=10 format=3 uid="uid://bh48e164y2akl"]
 
 [ext_resource type="Texture2D" uid="uid://cchckyuw02pnt" path="res://assets/Fantasy Assets/Forest Tilemap/Background/CloudsBack.png" id="1_k520q"]
 [ext_resource type="Texture2D" uid="uid://cb3n2yfbmy4uc" path="res://assets/Fantasy Assets/Forest Tilemap/Foreground/Tileset.png" id="1_riv4o"]
@@ -6,7 +6,6 @@
 [ext_resource type="Texture2D" uid="uid://ckbdqoqcixiun" path="res://assets/Fantasy Assets/Forest Tilemap/Foreground/TilesExamples.png" id="2_dyo2g"]
 [ext_resource type="PackedScene" uid="uid://ikjl0rp82dy8" path="res://scenes/Characters/player.tscn" id="5_ygx26"]
 [ext_resource type="PackedScene" uid="uid://d4eojgs2qwf0d" path="res://scenes/Characters/enemy.tscn" id="6_cjivi"]
-[ext_resource type="Script" path="res://scenes/Characters/enemy.gd" id="7_d0udd"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_pwo1m"]
 texture = ExtResource("1_riv4o")
@@ -871,4 +870,3 @@ drag_vertical_offset = -0.5
 
 [node name="RigidBody2D" parent="." instance=ExtResource("6_cjivi")]
 position = Vector2(1011, -30)
-script = ExtResource("7_d0udd")

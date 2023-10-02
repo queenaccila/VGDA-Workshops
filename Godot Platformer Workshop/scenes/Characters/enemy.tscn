@@ -1,9 +1,9 @@
-[gd_scene load_steps=60 format=3 uid="uid://d4eojgs2qwf0d"]
+[gd_scene load_steps=56 format=3 uid="uid://d4eojgs2qwf0d"]
 
 [ext_resource type="Texture2D" uid="uid://dik245onepm0o" path="res://assets/Fantasy Assets/Skeleton/Skeleton/Sprite Sheets/Skeleton Idle.png" id="1_c5gd1"]
+[ext_resource type="Script" path="res://scripts/enemy.gd" id="1_k1d1f"]
 [ext_resource type="Texture2D" uid="uid://6e6ieqdj0hwf" path="res://assets/Fantasy Assets/Skeleton/Skeleton/Sprite Sheets/Skeleton Dead.png" id="1_u1l2y"]
 [ext_resource type="Texture2D" uid="uid://kqn56k2ctq4q" path="res://assets/Fantasy Assets/Skeleton/Skeleton/Sprite Sheets/Skeleton Hit.png" id="2_3ye1u"]
-[ext_resource type="Texture2D" uid="uid://b0gpo3sb5abm3" path="res://assets/Fantasy Assets/Skeleton/Skeleton/Sprite Sheets/Skeleton React.png" id="2_drn64"]
 [ext_resource type="Texture2D" uid="uid://b7qrkr10e6jy8" path="res://assets/Fantasy Assets/Skeleton/Skeleton/Sprite Sheets/Skeleton Walk.png" id="2_rkl5w"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_6bdq4"]
@@ -146,22 +146,6 @@ region = Rect2(240, 0, 24, 32)
 atlas = ExtResource("2_3ye1u")
 region = Rect2(0, 0, 30, 32)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_17wkm"]
-atlas = ExtResource("2_drn64")
-region = Rect2(0, 0, 22, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_nca1s"]
-atlas = ExtResource("2_drn64")
-region = Rect2(22, 0, 22, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_eym0g"]
-atlas = ExtResource("2_drn64")
-region = Rect2(44, 0, 22, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_p41v5"]
-atlas = ExtResource("2_drn64")
-region = Rect2(66, 0, 22, 32)
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_npvpy"]
 atlas = ExtResource("2_rkl5w")
 region = Rect2(0, 0, 22, 33)
@@ -262,7 +246,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_31bgs")
 }],
-"loop": true,
+"loop": false,
 "name": &"death",
 "speed": 10.0
 }, {
@@ -338,23 +322,6 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_17wkm")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_nca1s")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_eym0g")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_p41v5")
-}],
-"loop": true,
-"name": &"notice",
-"speed": 10.0
-}, {
-"frames": [{
-"duration": 1.0,
 "texture": SubResource("AtlasTexture_npvpy")
 }, {
 "duration": 1.0,
@@ -402,12 +369,14 @@ animations = [{
 radius = 11.0
 
 [node name="RigidBody2D" type="RigidBody2D" groups=["hit"]]
+script = ExtResource("1_k1d1f")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." groups=["hit"]]
 sprite_frames = SubResource("SpriteFrames_r0amh")
 animation = &"death"
 autoplay = "idle"
-frame_progress = 0.457689
+frame = 4
+flip_h = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." groups=["hit"]]
 position = Vector2(-2, 4)
