@@ -1605,3 +1605,245 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.04-16.03.47:244][471]AssetCheck: New page: Asset Save: multiple assets
 [2023.10.04-16.03.47:244][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.10.04-16.03.47:244][471]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.10.04-16.04.19:039][922]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.04-16.04.19:049][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-16.04.19:050][922]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 4, 2023, 2:04:19 AM)
+[2023.10.04-16.04.19:057][922]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.10.04-16.04.19:060][922]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.10.04-16.04.19:061][922]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.10.04-16.04.19:074][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013281s)
+[2023.10.04-16.04.19:076][922]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.10.04-16.04.19:077][922]LogPlayLevel: PIE: World Init took: (0.003030s)
+[2023.10.04-16.04.19:077][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016812s)
+[2023.10.04-16.04.19:108][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.10.04-16.04.19:113][922]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-16.04.19:113][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-16.04.19:113][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-16.04.19:113][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-16.04.19:113][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-16.04.19:113][922]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.04-16.04.19:119][922]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.04-16.04.19:119][922]LogAudioMixer: Display: 1: FrontRight
+[2023.10.04-16.04.19:208][922]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.04-16.04.19:209][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-16.04.19:209][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-16.04.19:209][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-16.04.19:209][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.04-16.04.19:209][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.04-16.04.19:209][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.04-16.04.19:210][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.04-16.04.19:210][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.04-16.04.19:210][922]LogInit: FAudioDevice initialized.
+[2023.10.04-16.04.19:210][922]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.10.04-16.04.19:236][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.04-16.04.19:239][922]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.10.04-09.04.19
+[2023.10.04-16.04.19:240][922]LogWorld: Bringing up level for play took: 0.003088
+[2023.10.04-16.04.19:241][922]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.10.04-16.04.19:257][922]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.10.04-16.04.19:260][922]PIE: Server logged in
+[2023.10.04-16.04.19:262][922]PIE: Play in editor total start time 0.218 seconds.
+[2023.10.04-16.04.20:843][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-16.04.20:843][ 51]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.10.04-16.04.20:845][ 51]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.04.20:845][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.04.20:860][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-16.04.20:865][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.04.20:914][ 51]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-16.04.20:917][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.04-16.04.20:919][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.04-16.04.20:940][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-16.04.20:983][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.10.04-16.04.21:009][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.10.04-16.04.22:547][196]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.10.04-16.04.28:949][500]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.04-16.06.00:061][517]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.04-16.06.00:224][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.10.04-16.06.00:823][554]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonCharacter339AC6A1441E0E9212D0649224D08ADF.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.10.04-16.06.00:849][554]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.04-16.06.00:849][554]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.04-16.06.04:950][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.10.04-16.06.04:971][952]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMap7DAA539A432802E470853EA207D113A9.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.10.04-16.06.05:051][952]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMap_BuiltDataEB7EDF144DF96925F8EF368A25B3C889.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.10.04-16.06.05:068][952]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-16.06.05:068][952]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.10.04-16.06.05:068][952]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.10.04-16.06.08:621][109]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.10.04-16.06.08:651][109]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.04-16.06.43:574][999]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2023.10.04-16.06.53:233][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.10.04-16.06.53:262][480]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMapE737EFEE4FDAAA306B07BBA206F784EB.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.10.04-16.06.53:375][480]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMap_BuiltData80F159184C93B25E407B059DE50FDFF3.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.10.04-16.06.53:392][480]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-16.06.53:392][480]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.10.04-16.06.53:392][480]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.10.04-16.07.12:972][696]LogRenderer: Reallocating scene render targets to support 1072x876 Format 10 NumSamples 1 (Frame:1).
+[2023.10.04-16.07.29:815][609]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.07.29:815][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.07.29:831][609]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.07.29:831][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.07.29:959][609]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.07.29:960][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.07.34:675][787]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Ultimate_Platformer_Pack/Player/Animations/Character.Character
+[2023.10.04-16.07.34:688][787]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.04-16.07.48:340][423]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ultimate_Platformer_Pack/Player/Animations/Character_Anim_CharacterArmature_Death.Character_Anim_CharacterArmature_Death
+[2023.10.04-16.07.52:197][636]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.07.52:197][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.08.00:493][963]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Ultimate_Platformer_Pack/Player/Animations/Character.Character
+[2023.10.04-16.08.00:497][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.04-16.08.04:838][140]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2023.10.04-16.08.25:334][100]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.08.25:335][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.08.25:351][100]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.08.25:352][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.08.25:495][100]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.08.25:495][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.08.35:357][514]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2023.10.04-16.08.35:362][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.04-16.08.39:338][690]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2023.10.04-16.08.54:798][552]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/Character3DB7018A45114FBC33D75581FFDF91A1.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/Ultimate_Platformer_Pack/Player/Animations/Character.uasset'
+[2023.10.04-16.08.54:824][552]AssetCheck: New page: Asset Save: Character
+[2023.10.04-16.08.54:824][552]LogContentValidation: Display: Validating SkeletalMesh /Game/Ultimate_Platformer_Pack/Player/Animations/Character.Character
+[2023.10.04-16.09.01:063][942]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.09.01:063][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.09.07:738][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.10.04-16.09.07:763][272]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMap37773540477A6EBF907873B0F23823A4.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.10.04-16.09.07:844][272]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMap_BuiltData46D8D23C4314578C582343A6964AF5D3.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.10.04-16.09.07:863][272]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-16.09.07:863][272]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.10.04-16.09.07:863][272]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.10.04-16.09.09:320][354]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/Character26FF216244948A4C8E9EBFB72311C867.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/Ultimate_Platformer_Pack/Player/Animations/Character.uasset'
+[2023.10.04-16.09.09:349][354]AssetCheck: New page: Asset Save: Character
+[2023.10.04-16.09.09:349][354]LogContentValidation: Display: Validating SkeletalMesh /Game/Ultimate_Platformer_Pack/Player/Animations/Character.Character
+[2023.10.04-16.09.11:448][477]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.04-16.09.11:464][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-16.09.11:464][477]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 4, 2023, 2:09:11 AM)
+[2023.10.04-16.09.11:464][477]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.10.04-16.09.11:479][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014351s)
+[2023.10.04-16.09.11:480][477]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.10.04-16.09.11:480][477]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2023.10.04-16.09.11:480][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016063s)
+[2023.10.04-16.09.11:513][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.10.04-16.09.11:514][477]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.04-16.09.11:514][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-16.09.11:514][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-16.09.11:514][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-16.09.11:514][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-16.09.11:514][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-16.09.11:514][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-16.09.11:515][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-16.09.11:515][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-16.09.11:515][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-16.09.11:515][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-16.09.11:515][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-16.09.11:515][477]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.04-16.09.11:519][477]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.04-16.09.11:519][477]LogAudioMixer: Display: 1: FrontRight
+[2023.10.04-16.09.11:684][477]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.04-16.09.11:684][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-16.09.11:684][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-16.09.11:684][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-16.09.11:685][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.04-16.09.11:685][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.04-16.09.11:685][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.04-16.09.11:685][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.04-16.09.11:685][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.04-16.09.11:685][477]LogInit: FAudioDevice initialized.
+[2023.10.04-16.09.11:685][477]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.10.04-16.09.11:691][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.04-16.09.11:693][477]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.10.04-09.09.11
+[2023.10.04-16.09.11:693][477]LogWorld: Bringing up level for play took: 0.001148
+[2023.10.04-16.09.11:693][477]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2023.10.04-16.09.11:695][477]PIE: Server logged in
+[2023.10.04-16.09.11:697][477]PIE: Play in editor total start time 0.243 seconds.
+[2023.10.04-16.09.13:736][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-16.09.13:736][675]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.10.04-16.09.13:736][675]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.09.13:736][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.09.13:744][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-16.09.13:793][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.09.13:820][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-16.09.13:821][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.04-16.09.13:822][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.04-16.09.13:846][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.10.04-16.09.13:901][676]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.10.04-16.09.32:629][584]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female
+[2023.10.04-16.09.32:633][584]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.04-16.09.39:868][973]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/Character63A500EC489333916BBC21BB8B71F4D1.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/Ultimate_Platformer_Pack/Player/Animations/Character.uasset'
+[2023.10.04-16.09.39:895][973]AssetCheck: New page: Asset Save: Character
+[2023.10.04-16.09.39:895][973]LogContentValidation: Display: Validating SkeletalMesh /Game/Ultimate_Platformer_Pack/Player/Animations/Character.Character
+[2023.10.04-16.09.41:536][ 57]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.09.41:536][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.09.47:623][324]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2023.10.04-16.09.47:635][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.04-16.10.03:031][216]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.10.03:031][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.10.51:946][768]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonCharacter04E190B44EFAB698B93FFBB0302E1045.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.10.04-16.10.51:979][768]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.10.04-16.10.51:979][768]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.10.04-16.10.52:328][799]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.10.04-16.10.52:464][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.10.04-16.10.53:877][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.10.04-16.10.53:893][882]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMap06229E024C1E15B7575F84BB571A6415.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.10.04-16.10.53:979][882]LogSavePackage: Moving '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Saved/ThirdPersonExampleMap_BuiltData2488FB91454356AA99DEA29DFCB747B3.tmp' to '../../../../../../Users/helen/OneDrive/Desktop/VGDA Repo/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.10.04-16.10.53:993][882]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-16.10.53:993][882]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.10.04-16.10.53:993][882]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.10.04-16.10.54:977][942]LogTemp: Repeating last play command: Selected Viewport
+[2023.10.04-16.10.54:984][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-16.10.54:984][942]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 4, 2023, 2:10:54 AM)
+[2023.10.04-16.10.54:984][942]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.10.04-16.10.54:994][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010973s)
+[2023.10.04-16.10.54:996][942]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.10.04-16.10.54:997][942]LogPlayLevel: PIE: World Init took: (0.001983s)
+[2023.10.04-16.10.54:997][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013174s)
+[2023.10.04-16.10.55:027][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.10.04-16.10.55:028][942]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.04-16.10.55:028][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-16.10.55:028][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-16.10.55:028][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-16.10.55:029][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-16.10.55:029][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-16.10.55:029][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-16.10.55:029][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-16.10.55:029][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-16.10.55:029][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-16.10.55:029][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-16.10.55:029][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-16.10.55:029][942]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.04-16.10.55:031][942]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.04-16.10.55:031][942]LogAudioMixer: Display: 1: FrontRight
+[2023.10.04-16.10.55:126][942]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.10.04-16.10.55:127][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-16.10.55:127][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-16.10.55:127][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-16.10.55:127][942]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.04-16.10.55:127][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.04-16.10.55:127][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.04-16.10.55:128][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.04-16.10.55:128][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.04-16.10.55:128][942]LogInit: FAudioDevice initialized.
+[2023.10.04-16.10.55:128][942]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.10.04-16.10.55:134][942]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.10.04-16.10.55:136][942]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.10.04-09.10.55
+[2023.10.04-16.10.55:136][942]LogWorld: Bringing up level for play took: 0.001225
+[2023.10.04-16.10.55:136][942]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2023.10.04-16.10.55:138][942]PIE: Server logged in
+[2023.10.04-16.10.55:139][942]PIE: Play in editor total start time 0.156 seconds.
+[2023.10.04-16.11.00:078][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-16.11.00:078][477]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.10.04-16.11.00:078][477]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-16.11.00:079][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.11.00:095][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-16.11.00:132][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-16.11.00:154][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-16.11.00:154][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.04-16.11.00:157][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.10.04-16.11.00:178][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.10.04-16.11.00:227][478]LogPlayLevel: Display: Destroying online subsystem :Context_52
