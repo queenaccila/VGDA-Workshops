@@ -1,0 +1,1172 @@
+﻿Log file open, 10/03/23 23:12:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE3DPlatformer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.226991
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.10.04-06.12.56:403][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.10.04-06.12.56:403][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.10.04-06.12.56:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+[2023.10.04-06.12.56:403][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.10.04-06.12.56:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+[2023.10.04-06.12.56:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+[2023.10.04-06.12.56:403][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.10.04-06.12.56:403][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.10.04-06.12.56:404][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+[2023.10.04-06.12.56:404][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+[2023.10.04-06.12.56:433][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.10.04-06.12.56:433][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.10.04-06.12.56:434][  0]LogInit: Selected Device Profile: [Windows]
+[2023.10.04-06.12.56:434][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.10.04-06.12.56:434][  0]LogHAL: Display: Platform has ~ 32 GB [34316365824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.10.04-06.12.56:434][  0]LogInit: Going up to parent DeviceProfile []
+[2023.10.04-06.12.56:434][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.10.04-06.12.56:434][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Scalability.ini]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.10.04-06.12.56:435][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Engine.ini]
+[2023.10.04-06.12.56:435][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Config/Windows/Editor.ini]
+[2023.10.04-06.12.56:435][  0]LogInit: Computer: HELEN-GAMING-PC
+[2023.10.04-06.12.56:435][  0]LogInit: User: Helen
+[2023.10.04-06.12.56:435][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.10.04-06.12.56:435][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.10.04-06.12.56:435][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2023.10.04-06.12.56:435][  0]LogMemory: Platform Memory Stats for Windows
+[2023.10.04-06.12.56:436][  0]LogMemory: Process Physical Memory: 139.71 MB used, 139.71 MB peak
+[2023.10.04-06.12.56:436][  0]LogMemory: Process Virtual Memory: 110.37 MB used, 110.37 MB peak
+[2023.10.04-06.12.56:436][  0]LogMemory: Physical Memory: 10437.16 MB used,  22289.48 MB free, 32726.64 MB total
+[2023.10.04-06.12.56:436][  0]LogMemory: Virtual Memory: 134193160.00 MB used,  24571.40 MB free, 134217728.00 MB total
+[2023.10.04-06.12.56:440][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.10.04-06.12.56:482][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.10.04-06.12.56:483][  0]LogInit: Using OS detected language (en-US).
+[2023.10.04-06.12.56:483][  0]LogInit: Using OS detected locale (en-US).
+[2023.10.04-06.12.56:489][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.10.04-06.12.56:689][  0]LogInit: Setting process to per monitor DPI aware
+[2023.10.04-06.12.56:720][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.10.04-06.12.56:737][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.10.04-06.12.56:737][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.10.04-06.12.56:928][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.10.04-06.12.56:931][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.10.04-06.12.56:931][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.10.04-06.12.56:931][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.10.04-06.12.56:931][  0]LogD3D11RHI: D3D11 adapters:
+[2023.10.04-06.12.57:098][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2023.10.04-06.12.57:098][  0]LogD3D11RHI:       8072/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     SubSysId    : 62883842
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     DedicatedVideoMemory : 8464105472 bytes
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     SharedSystemMemory : 17158182912 bytes
+[2023.10.04-06.12.57:100][  0]LogD3D11RHI:     AdapterLuid : 0 62851
+[2023.10.04-06.12.57:106][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.10.04-06.12.57:106][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.10.04-06.12.57:106][  0]LogWindows: EnumDisplayDevices:
+[2023.10.04-06.12.57:106][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2023.10.04-06.12.57:106][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.10.04-06.12.57:106][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.10.04-06.12.57:106][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.10.04-06.12.57:107][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:      Driver Date: 6-8-2023
+[2023.10.04-06.12.57:107][  0]LogRHI: Texture pool is 5650 MB (70% of 8072 MB)
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     SubSysId    : 62883842
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     DedicatedVideoMemory : 8464105472 bytes
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     SharedSystemMemory : 17158182912 bytes
+[2023.10.04-06.12.57:107][  0]LogD3D11RHI:     AdapterLuid : 0 62851
+[2023.10.04-06.12.57:195][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.10.04-06.12.57:195][  0]LogD3D11RHI: Async texture creation enabled
+[2023.10.04-06.12.57:195][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.10.04-06.12.57:232][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.10.04-06.12.57:274][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.10.04-06.12.57:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.10.04-06.12.57:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.10.04-06.12.57:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.10.04-06.12.57:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.10.04-06.12.57:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.10.04-06.12.57:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.10.04-06.12.57:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.10.04-06.12.57:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.10.04-06.12.57:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.10.04-06.12.57:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.10.04-06.12.57:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.10.04-06.12.57:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.10.04-06.12.57:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.10.04-06.12.57:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.10.04-06.12.57:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.10.04-06.12.57:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.10.04-06.12.57:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.10.04-06.12.57:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.10.04-06.12.57:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.10.04-06.12.57:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.10.04-06.12.57:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.10.04-06.12.57:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.10.04-06.12.57:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.10.04-06.12.57:699][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.10.04-06.12.57:706][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.10.04-06.12.57:745][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.10.04-06.12.57:781][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.10.04-06.12.57:781][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Intermediate/Shaders/WorkingDirectory/16172/).
+[2023.10.04-06.12.57:781][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Helen/AppData/Local/Temp/UnrealShaderWorkingDir/8037486948D024A06CC305A480A488E4/'.
+[2023.10.04-06.12.57:782][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.10.04-06.12.57:782][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.10.04-06.12.57:782][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.10.04-06.12.58:513][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.10.04-06.12.58:562][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/Helen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.10.04-06.12.58:562][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Helen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.10.04-06.12.58:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.10.04-06.12.58:563][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.10.04-06.12.58:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.04-06.12.58:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.10.04-06.12.58:578][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.10.04-06.12.58:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.04-06.12.58:579][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.10.04-06.12.58:587][  0]LogDerivedDataCache: Speed tests for C:/Users/Helen/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.10.04-06.12.58:587][  0]LogDerivedDataCache: Display: Performance to C:/Users/Helen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=908.34MBs, RandomWriteSpeed=144.87MBs. Assigned SpeedClass 'Local'
+[2023.10.04-06.12.58:587][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Helen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.10.04-06.12.58:588][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.10.04-06.12.58:588][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.10.04-06.12.58:638][  0]LogSlate: Using FreeType 2.10.0
+[2023.10.04-06.12.58:638][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.10.04-06.12.58:661][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2023.10.04-06.12.58:993][  0]LogInit: Selected Device Profile: [Windows]
+[2023.10.04-06.12.58:993][  0]LogInit: Active device profile: [000002534D300F00][00000253443A76C0 49] Windows
+[2023.10.04-06.12.58:993][  0]LogInit: Profiles: [000002534D300F00][00000253443A76C0 49] Windows, [000002534D2B6400][0000025340E77840 49] WindowsNoEditor, [000002534D301F00][0000025340E7B9C0 49] WindowsServer, [000002534D2B5600][0000025340E7FB40 49] WindowsClient, [000002534D301000][0000025340E82140 49] IOS, [000002534D2B7A00][0000025340E862C0 49] iPadAir, [000002534D303300][0000025340E8A440 49] iPadAir2, [000002534D25D300][0000025340E92700 49] IPadPro, [000002534D25D400][0000025340E8E740 49] iPadAir3, [000002534D2B4B00][0000025340E968C0 49] iPadAir4, [000002534D25E100][0000025340E9AA40 49] iPadMini2, [000002534D2B7400][0000025340E72B80 49] iPadMini3, [000002534D25EC00][000002534C39ACC0 49] iPadMini4, [000002534D2B6700][000002534C39EE00 49] iPadMini5, [000002534D278E00][000002534C3AB080 49] iPhone6, [000002534D278F00][000002534C3A30C0 49] iPodTouch6, [000002534D303700][000002534C3B3380 49] iPhone7, [000002534D302800][000002534C3AF3C0 49] iPodTouch7, [000002534D25CC00][000002534C3B7540 49] iPhone5S, [000002534D301300][000002534C3BB6C0 49] iPhone6Plus, [000002534D300600][000002534C3BF840 49] iPhone6S, [000002534D279300][000002534C3C39C0 49] iPhone6SPlus, [000002534D300B00][000002534C3C7B40 49] iPhone7Plus, [000002534D279600][000002534C3CA140 49] iPhoneSE, [000002534D300A00][000002534C3CE2C0 49] iPhone8, [000002534D279200][000002534C3D2440 49] iPhone8Plus, [000002534D25EB00][000002534C3D65C0 49] iPhoneX, [000002534D278C00][000002534C3DA740 49] iPhoneXS, [000002534D25FA00][000002534C3DE8C0 49] iPhoneXSMax, [000002534D27B800][000002534C3E2A40 49] iPhoneXR, [000002534D25CD00][000002534C3E6BC0 49] iPhone11, [000002534D27A600][000002534C3EAD40 49] iPhone11Pro, [000002534D25E900][000002534C3A6E80 49] iPhone11ProMax, [000002534D278200][000002534C3EEFC0 49] iPhoneSE2, [000002534D25CB00][000002534C3F3100 49] iPhone12Mini, [000002534D27AA00][000002534C3FB280 49] iPhone12, [000002534D25EE00][000002534C3FF400 49] iPhone12Pro, [000002534D278A00][000002534C403580 49] iPhone12ProMax, [000002534D25F200][000002534C407700 49] iPadPro105, [000002534D27B600][000002534C40B880 49] iPadPro129, [000002534D25E000][000002534C40FA00 49] iPadPro97, [000002534D27A000][000002534C413B80 49] iPadPro2_129, [000002534D25E400][000002534C416180 49] iPad5, [000002534D279400][000002534C41A300 49] iPad6, [000002534D25D000][000002534C41E480 49] iPad7, [000002534D279700][000002534C422600 49] iPad8, [000002534D25FC00][000002534C426780 49] iPadPro11, [000002534D279800][000002534C42A900 49] iPadPro2_11, [000002534D25C600][000002534C42EA80 49] iPadPro3_129, [000002534D278D00][000002534C432C00 49] iPadPro4_129, [000002534D25F100][000002534C436D80 49] AppleTV, [000002534D278800][000002534C43AF00 49] AppleTV4K, [000002534D25C500][000002534C3F7040 49] TVOS, [000002534D278500][000002534C43F180 49] Mac, [000002534D25C700][000002534C4432C0 49] MacClient, [000002534D279500][000002534C44B440 49] MacNoEditor, [000002534D25D500][000002533E1075C0 49] MacServer, [000002534D27AE00][000002533E10B740 49] Linux, [000002534D25C400][000002533E10F8C0 49] LinuxAArch64, [000002534D279E00][000002533E113A40 49] LinuxNoEditor, [000002534D25DC00][000002533E117BC0 49] LinuxAArch64NoEditor, [000002534D27A900][000002533E11A1C0 49] LinuxClient, [000002534D25ED00][000002533E11E340 49] LinuxAArch64Client, [000002534D278100][000002533E1224C0 49] LinuxServer, [000002534D25DE00][000002533E126640 49] LinuxAArch64Server, [000002534D278B00][000002533E12A7C0 49] Android, [000002534D25DA00][000002533E12E940 49] Android_Low, [000002534D27AF00][000002534D460AC0 49] Android_Mid, [000002534D25D100][000002534D464C40 49] Android_High, [000002534D27B000][000002534D468DC0 49] Android_Default, [000002534D25D700][000002534D46CF40 49] Android_Adreno4xx, [000002534D279900][000002534D4710C0 49] Android_Adreno5xx_Low, [000002534D25CA00][000002534C447200 49] Android_Adreno5xx, [000002534D27B400][000002534D475340 49] Android_Adreno6xx, [000002534D25CE00][000002534D479480 49] Android_Adreno6xx_Vulkan, [000002534D27B100][000002534D47D5C0 49] Android_Mali_T6xx, [000002534D302F00][000002534D485740 49] Android_Mali_T7xx, [000002534D2B4800][000002534D4898C0 49] Android_Mali_T8xx, [000002534D301200][000002534D48DA40 49] Android_Mali_G71, [000002534D2B4E00][000002534D491BC0 49] Android_Mali_G72, [000002534D301100][000002534D4941C0 49] Android_Mali_G72_Vulkan, [000002534D2B6500][000002534D498340 49] Android_Mali_G76, [000002534D301500][000002534D49C4C0 49] Android_Mali_G76_Vulkan, [000002534D2B6000][000002534D4A0640 49] Android_Mali_G77, [000002534D303F00][000002534D4A47C0 49] Android_Mali_G77_Vulkan, [000002534D2B5D00][000002534D4A8940 49] Android_Mali_G78, [000002534D300300][000002534D4ACAC0 49] Android_Mali_G78_Vulkan, [000002534D2B4400][000002534D4B0C40 49] Android_Mali_G710, [000002534D303600][000002534D4B4DC0 49] Android_Mali_G710_Vulkan, [000002534D2B7100][000002534D4B8F40 49] Android_Vulkan_SM5, [000002534D300900][000002534D4BD0C0 49] Android_PowerVR_G6xxx, [000002534D2B4A00][000002534D4C1240 49] Android_PowerVR_GT7xxx, [000002534D300D00][000002534D481380 49] Android_PowerVR_GE8xxx, [000002534D2B7C00][000002534D4C54C0 49] Android_PowerVR_GM9xxx, [000002534D302300][000002534D4C9600 49] Android_PowerVR_GM9xxx_Vulkan, [000002534D2B5200][000002534D4CD740 49] Android_TegraK1, [000002534D302A00][000002534D4D58C0 49] Android_Unknown_Vulkan, [000002534D2B7000][000002534D4D9A40 49] Lumin, [000002534D301C00][000002534D4DDBC0 49] Lumin_Desktop, [000002534D2B6E00][000002534D4E01C0 49] HoloLens, 
+[2023.10.04-06.12.59:198][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.10.04-06.12.59:198][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.10.04-06.12.59:198][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.10.04-06.12.59:198][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.10.04-06.12.59:198][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.10.04-06.12.59:223][  0]LogNetVersion: UE3DPlatformer 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 160983791)
+[2023.10.04-06.12.59:886][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.10.04-06.12.59:976][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.10.04-06.12.59:985][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.10.04-06.12.59:985][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.10.04-06.12.59:985][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.10.04-06.13.00:345][  0]LogPython: Using Python 3.7.7
+[2023.10.04-06.13.01:107][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 811C2C6C4BED06E51CA19E8973093307 | Instance: 71DEBB39441DD89F1465A993E7FECC41 (HELEN-GAMING-PC-16172).
+[2023.10.04-06.13.01:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.10.04-06.13.01:346][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.10.04-06.13.01:654][  0]SourceControl: Source control is disabled
+[2023.10.04-06.13.01:654][  0]SourceControl: Source control is disabled
+[2023.10.04-06.13.01:659][  0]SourceControl: Source control is disabled
+[2023.10.04-06.13.01:663][  0]SourceControl: Source control is disabled
+[2023.10.04-06.13.01:681][  0]SourceControl: Source control is disabled
+[2023.10.04-06.13.01:761][  0]LogUProjectInfo: Found projects:
+[2023.10.04-06.13.01:943][  0]LogOpenImageDenoise: OIDN starting up
+[2023.10.04-06.13.02:033][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.10.04-06.13.02:068][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.04-06.13.02:068][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.04-06.13.02:259][  0]LogCollectionManager: Loaded 0 collections in 0.002312 seconds
+[2023.10.04-06.13.02:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Collections/' took 0.01s
+[2023.10.04-06.13.02:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/Developers/Helen/Collections/' took 0.00s
+[2023.10.04-06.13.02:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/Collections/' took 0.01s
+[2023.10.04-06.13.02:323][  0]LogOcInput: OculusInput pre-init called
+[2023.10.04-06.13.02:793][  0]LogEngine: Initializing Engine...
+[2023.10.04-06.13.02:897][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.10.04-06.13.02:900][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.10.04-06.13.02:900][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.10.04-06.13.02:902][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.10.04-06.13.03:127][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.10.04-06.13.03:138][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.10.04-06.13.03:142][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.10.04-06.13.03:148][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.10.04-06.13.03:148][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.10.04-06.13.03:150][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.10.04-06.13.03:150][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.10.04-06.13.03:150][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-06.13.03:150][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-06.13.03:150][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-06.13.03:150][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-06.13.03:150][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.04-06.13.03:150][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.04-06.13.03:150][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.04-06.13.03:150][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-06.13.03:151][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.04-06.13.03:151][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.04-06.13.03:151][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-06.13.03:151][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.10.04-06.13.03:175][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.10.04-06.13.03:175][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.10.04-06.13.03:211][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2023.10.04-06.13.03:214][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-06.13.03:218][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-06.13.03:218][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-06.13.03:219][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.10.04-06.13.03:219][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.10.04-06.13.03:219][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.10.04-06.13.03:221][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.10.04-06.13.03:221][  0]LogInit: FAudioDevice initialized.
+[2023.10.04-06.13.03:221][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.10.04-06.13.03:221][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.10.04-06.13.03:221][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.10.04-06.13.03:280][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/Helen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.10.04-06.13.03:280][  0]LogInit: Texture streaming: Enabled
+[2023.10.04-06.13.03:300][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.10.04-06.13.03:305][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.10.04-06.13.03:305][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.10.04-06.13.03:308][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.10.04-06.13.03:329][  0]LogInit: Transaction tracking system initialized
+[2023.10.04-06.13.03:360][  0]BlueprintLog: New page: Editor Load
+[2023.10.04-06.13.03:526][  0]LocalizationService: Localization service is disabled
+[2023.10.04-06.13.03:555][  0]TimingProfiler: Initialize
+[2023.10.04-06.13.03:556][  0]TimingProfiler: OnSessionChanged
+[2023.10.04-06.13.03:556][  0]LoadingProfiler: Initialize
+[2023.10.04-06.13.03:556][  0]LoadingProfiler: OnSessionChanged
+[2023.10.04-06.13.03:556][  0]NetworkingProfiler: Initialize
+[2023.10.04-06.13.03:556][  0]NetworkingProfiler: OnSessionChanged
+[2023.10.04-06.13.03:556][  0]MemoryProfiler: Initialize
+[2023.10.04-06.13.03:556][  0]MemoryProfiler: OnSessionChanged
+[2023.10.04-06.13.03:775][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.10.04-06.13.03:775][  0]LogCook: Display: Mobile HDR setting 1
+[2023.10.04-06.13.03:999][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/' took 0.00s
+[2023.10.04-06.13.04:194][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.10.04-06.13.04:199][  0]SourceControl: Source control is disabled
+[2023.10.04-06.13.04:199][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.163
+[2023.10.04-06.13.04:202][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.10.04-06.13.04:202][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.10.04-06.13.04:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.04:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.10.04-06.13.04:207][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.10.04-06.13.04:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.10.04-06.13.04:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.10.04-06.13.04:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.10.04-06.13.04:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.10.04-06.13.04:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.10.04-06.13.04:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.10.04-06.13.04:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.10.04-06.13.04:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.10.04-06.13.04:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.10.04-06.13.04:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.10.04-06.13.04:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.10.04-06.13.04:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.10.04-06.13.04:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.10.04-06.13.04:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.10.04-06.13.04:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.10.04-06.13.04:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.10.04-06.13.04:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.10.04-06.13.04:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Fire01.uasset"
+[2023.10.04-06.13.04:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.10.04-06.13.04:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.10.04-06.13.04:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.10.04-06.13.04:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Light01.uasset"
+[2023.10.04-06.13.04:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.10.04-06.13.04:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Light02.uasset"
+[2023.10.04-06.13.04:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.10.04-06.13.04:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.10.04-06.13.04:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.10.04-06.13.04:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.10.04-06.13.04:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.10.04-06.13.04:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.10.04-06.13.04:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.10.04-06.13.04:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.10.04-06.13.04:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.10.04-06.13.04:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Steam01.uasset"
+[2023.10.04-06.13.04:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.10.04-06.13.04:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.10.04-06.13.04:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.10.04-06.13.04:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.10.04-06.13.04:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.10.04-06.13.04:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.10.04-06.13.04:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.10.04-06.13.04:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.10.04-06.13.04:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.10.04-06.13.04:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.10.04-06.13.04:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.10.04-06.13.04:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.10.04-06.13.04:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.10.04-06.13.04:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.10.04-06.13.04:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.10.04-06.13.04:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.10.04-06.13.04:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.10.04-06.13.04:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.10.04-06.13.04:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.10.04-06.13.04:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.10.04-06.13.04:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.10.04-06.13.04:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.10.04-06.13.04:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Maps/StarterMap.umap"
+[2023.10.04-06.13.04:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.10.04-06.13.04:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.10.04-06.13.04:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.10.04-06.13.04:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.10.04-06.13.04:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.10.04-06.13.04:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.10.04-06.13.04:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.10.04-06.13.04:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.10.04-06.13.04:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.10.04-06.13.04:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.10.04-06.13.04:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.10.04-06.13.04:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.10.04-06.13.04:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.10.04-06.13.04:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.10.04-06.13.04:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.10.04-06.13.04:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.10.04-06.13.04:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.10.04-06.13.04:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.10.04-06.13.04:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.10.04-06.13.04:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.10.04-06.13.04:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.10.04-06.13.04:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.10.04-06.13.04:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.10.04-06.13.04:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.10.04-06.13.04:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.10.04-06.13.04:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.10.04-06.13.04:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.10.04-06.13.04:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.10.04-06.13.04:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.10.04-06.13.04:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.10.04-06.13.04:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.10.04-06.13.04:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.10.04-06.13.04:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.10.04-06.13.04:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.10.04-06.13.04:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.10.04-06.13.04:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.10.04-06.13.04:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.10.04-06.13.04:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.10.04-06.13.04:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.10.04-06.13.04:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.10.04-06.13.04:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.10.04-06.13.04:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.10.04-06.13.04:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.10.04-06.13.04:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.10.04-06.13.04:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.10.04-06.13.04:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.10.04-06.13.04:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.10.04-06.13.04:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.10.04-06.13.04:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.10.04-06.13.04:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.10.04-06.13.04:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.10.04-06.13.04:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.10.04-06.13.05:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.10.04-06.13.05:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.10.04-06.13.05:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.10.04-06.13.05:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.10.04-06.13.05:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.10.04-06.13.05:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.10.04-06.13.05:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.10.04-06.13.05:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.10.04-06.13.05:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.10.04-06.13.05:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.10.04-06.13.05:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.10.04-06.13.05:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.10.04-06.13.05:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.10.04-06.13.05:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Door.uasset"
+[2023.10.04-06.13.05:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.10.04-06.13.05:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.10.04-06.13.05:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.10.04-06.13.05:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.10.04-06.13.05:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.10.04-06.13.05:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.10.04-06.13.05:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.10.04-06.13.05:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.10.04-06.13.05:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.10.04-06.13.05:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.10.04-06.13.05:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.10.04-06.13.05:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.10.04-06.13.05:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.10.04-06.13.05:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.10.04-06.13.05:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.10.04-06.13.05:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.10.04-06.13.05:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.10.04-06.13.05:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.10.04-06.13.05:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.10.04-06.13.05:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.10.04-06.13.05:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.10.04-06.13.05:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.10.04-06.13.05:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.10.04-06.13.05:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.10.04-06.13.05:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.10.04-06.13.05:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.10.04-06.13.05:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.10.04-06.13.05:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.10.04-06.13.05:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.10.04-06.13.05:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.10.04-06.13.05:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.10.04-06.13.05:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.10.04-06.13.05:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.10.04-06.13.05:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.10.04-06.13.05:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.10.04-06.13.05:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.10.04-06.13.05:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.10.04-06.13.05:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.10.04-06.13.05:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.10.04-06.13.05:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.10.04-06.13.05:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.10.04-06.13.05:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.10.04-06.13.05:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.10.04-06.13.05:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.10.04-06.13.05:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.10.04-06.13.05:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.10.04-06.13.05:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.10.04-06.13.05:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.10.04-06.13.05:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.10.04-06.13.05:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.10.04-06.13.05:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.10.04-06.13.05:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.10.04-06.13.05:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.10.04-06.13.05:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.10.04-06.13.05:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.10.04-06.13.05:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.10.04-06.13.05:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.10.04-06.13.05:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.10.04-06.13.05:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.10.04-06.13.05:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.10.04-06.13.05:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.10.04-06.13.05:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.10.04-06.13.05:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.10.04-06.13.05:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.10.04-06.13.05:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.10.04-06.13.05:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.10.04-06.13.05:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.10.04-06.13.05:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.10.04-06.13.05:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.10.04-06.13.05:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.10.04-06.13.05:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.10.04-06.13.05:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.10.04-06.13.05:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.10.04-06.13.05:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.10.04-06.13.05:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.10.04-06.13.05:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.10.04-06.13.05:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.10.04-06.13.06:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.10.04-06.13.06:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.10.04-06.13.06:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.10.04-06.13.06:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.10.04-06.13.06:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.10.04-06.13.06:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.10.04-06.13.06:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.10.04-06.13.06:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.10.04-06.13.06:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.10.04-06.13.06:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.10.04-06.13.06:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.10.04-06.13.06:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.10.04-06.13.06:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.10.04-06.13.06:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.10.04-06.13.06:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.10.04-06.13.06:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.10.04-06.13.06:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.10.04-06.13.06:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.10.04-06.13.06:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.10.04-06.13.06:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.10.04-06.13.06:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.10.04-06.13.06:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.10.04-06.13.06:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.10.04-06.13.06:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.10.04-06.13.06:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.10.04-06.13.06:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.10.04-06.13.06:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.10.04-06.13.06:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.10.04-06.13.06:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.10.04-06.13.06:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.10.04-06.13.06:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.10.04-06.13.06:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.10.04-06.13.06:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.10.04-06.13.06:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.10.04-06.13.06:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.10.04-06.13.06:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.10.04-06.13.06:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.10.04-06.13.06:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.10.04-06.13.06:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.10.04-06.13.06:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.10.04-06.13.06:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.10.04-06.13.06:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.10.04-06.13.06:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.10.04-06.13.06:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.10.04-06.13.06:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.10.04-06.13.06:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.10.04-06.13.06:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.10.04-06.13.06:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.10.04-06.13.06:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.10.04-06.13.06:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.10.04-06.13.06:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.10.04-06.13.06:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.10.04-06.13.06:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.10.04-06.13.06:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.10.04-06.13.06:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.10.04-06.13.06:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.10.04-06.13.06:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.10.04-06.13.06:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.10.04-06.13.06:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.10.04-06.13.06:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.10.04-06.13.06:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.10.04-06.13.06:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.10.04-06.13.06:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.10.04-06.13.06:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.10.04-06.13.06:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.10.04-06.13.06:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.10.04-06.13.06:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.10.04-06.13.06:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.10.04-06.13.06:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.10.04-06.13.06:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.10.04-06.13.06:849][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2023.10.04-06.13.06:895][  0]LogSavePackage: Moving '../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Saved/Floor_400x4005ED821624682076AF93AF18E34405EBE.tmp' to '../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.10.04-06.13.06:896][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2023.10.04-06.13.06:897][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Helen/Desktop/VGDA Workshops/VGDA-Workshops/UE3DPlatformer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.04-06.13.06:897][  0]LightingResults: New page: Lighting Build
+[2023.10.04-06.13.06:899][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-06.13.06:899][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-06.13.06:899][  0]MapCheck: New page: Map Check
+[2023.10.04-06.13.06:899][  0]LightingResults: New page: Lighting Build
+[2023.10.04-06.13.06:903][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-06.13.06:906][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.04-06.13.07:187][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.10.04-06.13.07:188][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.10.04-06.13.07:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.04-06.13.07:212][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.04-06.13.07:213][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.04-06.13.07:213][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.258ms to complete.
+[2023.10.04-06.13.07:213][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.316
+[2023.10.04-06.13.07:215][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.180
+[2023.10.04-06.13.07:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-06.13.07:351][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-06.13.07:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-06.13.07:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-06.13.07:392][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3822 classes and 928 folders.
+[2023.10.04-06.13.07:412][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.10.04-06.13.07:413][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.10.04-06.13.07:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.10.04-06.13.07:413][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:413][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.10.04-06.13.07:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.10.04-06.13.07:414][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.10.04-06.13.07:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.10.04-06.13.07:414][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:414][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.10.04-06.13.07:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.10.04-06.13.07:415][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.10.04-06.13.07:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.10.04-06.13.07:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.10.04-06.13.07:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.10.04-06.13.07:415][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.10.04-06.13.07:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.10.04-06.13.07:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.10.04-06.13.07:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.10.04-06.13.07:416][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.10.04-06.13.07:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.10.04-06.13.07:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.10.04-06.13.07:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.10.04-06.13.07:417][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.10.04-06.13.07:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.10.04-06.13.07:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.10.04-06.13.07:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.10.04-06.13.07:417][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.10.04-06.13.07:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.10.04-06.13.07:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.10.04-06.13.07:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.10.04-06.13.07:418][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.10.04-06.13.07:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.10.04-06.13.07:418][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:418][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.10.04-06.13.07:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.10.04-06.13.07:418][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.10.04-06.13.07:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.10.04-06.13.07:418][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:418][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.10.04-06.13.07:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.10.04-06.13.07:419][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.10.04-06.13.07:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.10.04-06.13.07:419][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:419][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.10.04-06.13.07:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.10.04-06.13.07:420][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.10.04-06.13.07:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.10.04-06.13.07:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.10.04-06.13.07:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.10.04-06.13.07:421][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.10.04-06.13.07:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.10.04-06.13.07:421][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:421][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.10.04-06.13.07:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2023.10.04-06.13.07:422][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.10.04-06.13.07:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.10.04-06.13.07:422][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:422][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.10.04-06.13.07:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.10.04-06.13.07:423][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.10.04-06.13.07:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.10.04-06.13.07:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.10.04-06.13.07:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.10.04-06.13.07:424][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.10.04-06.13.07:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.10.04-06.13.07:424][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:424][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.10.04-06.13.07:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.10.04-06.13.07:425][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.10.04-06.13.07:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.10.04-06.13.07:425][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:425][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.10.04-06.13.07:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.10.04-06.13.07:426][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.10.04-06.13.07:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.10.04-06.13.07:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.10.04-06.13.07:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.10.04-06.13.07:427][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.10.04-06.13.07:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.10.04-06.13.07:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.10.04-06.13.07:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.10.04-06.13.07:428][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.10.04-06.13.07:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.10.04-06.13.07:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.10.04-06.13.07:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.10.04-06.13.07:429][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.10.04-06.13.07:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.10.04-06.13.07:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.10.04-06.13.07:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.10.04-06.13.07:430][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.10.04-06.13.07:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.10.04-06.13.07:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.10.04-06.13.07:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.10.04-06.13.07:431][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.10.04-06.13.07:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.10.04-06.13.07:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.10.04-06.13.07:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.10.04-06.13.07:431][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.10.04-06.13.07:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.10.04-06.13.07:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.10.04-06.13.07:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.10.04-06.13.07:432][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.10.04-06.13.07:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.10.04-06.13.07:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.10.04-06.13.07:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.10.04-06.13.07:433][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.10.04-06.13.07:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.10.04-06.13.07:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.10.04-06.13.07:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.10.04-06.13.07:434][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.10.04-06.13.07:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.10.04-06.13.07:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.10.04-06.13.07:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.10.04-06.13.07:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.10.04-06.13.07:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.10.04-06.13.07:489][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.10.04-06.13.07:493][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.10.04-06.13.07:548][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.04-06.13.07:556][  0]LogSlate: Took 0.006727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.04-06.13.07:557][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.04-06.13.07:657][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2023.10.04-06.13.08:305][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.10.04-06.13.08:305][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.10.04-06.13.08:305][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.10.04-06.13.08:305][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.10.04-06.13.08:305][  0]LogLoad: (Engine Initialization) Total time: 13.27 seconds
+[2023.10.04-06.13.08:305][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.10.04-06.13.08:327][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.10.04-06.13.08:424][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.10.04-06.13.08:424][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.10.04-06.13.08:454][  0]LogAssetRegistry: Asset discovery search completed in 9.7933 seconds
+[2023.10.04-06.13.08:459][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.10.04-06.13.08:459][  0]LogContentStreaming: Texture pool size now 1000 MB
