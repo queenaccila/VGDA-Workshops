@@ -8,7 +8,9 @@ _**Ex:** 2D-Topdown-Godot is our 2D Top Down workshop built in Godot._
 # Godot Workshops  
 
 ### Godot and Workshop Setup  
-Check out our [documentation](https://docs.google.com/document/d/1dP2Y9i_b2a-Oonw0LWxjutCrWnxs3f6UxjHAxNBJwSU/edit?usp=sharing) for our Godot workshop setup. We also have brief explanations for getting started on a project or opening our workshop files.
+Check out our [documentation](https://docs.google.com/document/d/1dP2Y9i_b2a-Oonw0LWxjutCrWnxs3f6UxjHAxNBJwSU/edit?usp=sharing) for our Godot workshop setup. We also have brief explanations for getting started on a project or opening our workshop files.  
+
+All of our Godot workshops are made in version **_4.1.1_**
 
 ### 2D-Topdown-Godot  
 Learn the basics of Godot through a simple 2D top-down project! [Work In Progress]  
@@ -17,6 +19,13 @@ Learn the basics of Godot through a simple 2D top-down project! [Work In Progres
 
 ### 2D-Platformer-Godot  
 Learn more features in Godot through a basic 2D platformer game! [Work In Progress]
+
+# Unreal Engine Workshops
+
+### Unreal Engine Setup
+Please make sure to check out the documentation on how to set up Unreal Engine beforehand. Unreal Engine is a very heavy engine and will take a while to download, so please do this before any UE workshops we plan to host!  
+
+All of our Unreal Engine workshops are made in Version **_4.27_**
 
 # Unity Workshops (OLD)  
   
