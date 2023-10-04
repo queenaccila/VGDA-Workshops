@@ -1,7 +1,0 @@
-res://Levels/game_level.tscn
-res://Levels/Apple.gd
-res://Levels/game_level.gd
-res://Score.gd
-res://Levels/score_ui.tscn
-res://Levels/Label.gd
-res://Levels/workshop_level.tscn
