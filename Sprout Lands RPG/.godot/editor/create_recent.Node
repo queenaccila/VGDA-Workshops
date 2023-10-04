@@ -1,0 +1,15 @@
+Label
+CanvasLayer
+RemoteTransform2D
+AspectRatioContainer
+Camera2D
+AudioStreamPlayer
+Timer
+Control
+CollisionShape2D
+Area2D
+Sprite2D
+TileMap
+AnimationTree
+AnimationPlayer
+CharacterBody2D

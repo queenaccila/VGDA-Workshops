@@ -1,0 +1,53 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1680552412
+export_presets.cfg::TextFile::-1::1695254686::0::1::::<><>::
+icon.svg::CompressedTexture2D::8298910968378880700::1680552976::1680552982::1::::<><>::
+Score.gd::GDScript::-1::1695624272::0::1::::<>Node<>::
+::res://Characters/::1680554864
+apple.tscn::PackedScene::6290941750539624469::1695256828::0::1::::<><>::uid://cphhyh1kd2yn6
+cow.gd::GDScript::-1::1680738330::0::1::::<>CharacterBody2D<>::
+cow.tscn::PackedScene::2230460275802747182::1683223428::0::1::::<><>::uid://blaq0qccgog1k<>res://Characters/cow.gd
+player_cat.gd::GDScript::-1::1695310176::0::1::::<>CharacterBody2D<>::
+player_cat.tscn::PackedScene::35840879133174382::1695232536::0::1::::<><>::uid://b17upkbp64qjw
+::res://Levels/::1680553578
+Apple.gd::GDScript::-1::1695623794::0::1::::<>Sprite2D<>::
+Cow.gd::GDScript::-1::1680733572::0::1::::<>CharacterBody2D<>::
+game_level.tscn::PackedScene::6070004765254374138::1695627302::0::1::::<><>::uid://rmj86cec1bu::::res://Characters/player_cat.tscn<>res://Levels/game_level.gd<>uid://7hrm6hu5b11j::::res://Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/new tiles/Grass hill tiles v.2.png<>uid://b2op85kqu2ri5::::res://Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/new tiles/Grass tiles v.2.png<>uid://cyvf88ymxpyw2::::res://Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/new tiles/Tall Grass hill tiles v.2.png<>uid://61pmch0cyask::::res://Characters/cow.tscn<>uid://dnvkyn72068ri::::res://Sprout Lands - Sprites - Basic pack/Objects/Apple.png<>res://Levels/Apple.gd<>uid://djmwnuesms0eq::::res://Sprout Lands - Sprites - Basic pack/Sound/Peaceful Seascape.mp3<>uid://8cdqr6d7p16b::::res://Sprout Lands - Sprites - Basic pack/Sound/item-pickup-v1.wav<>uid://b05gpl7ev45in::::res://Levels/score_ui.tscn
+game_level.gd::GDScript::-1::1695623516::0::1::::<>Node2D<>::
+Label.gd::GDScript::-1::1695624468::0::1::::<>Label<>::
+score_ui.tscn::PackedScene::4203464823532448589::1695627206::0::1::::<><>::res://Levels/Label.gd
+::res://Sprout Lands - Sprites - Basic pack/::1680552436
+read_me.txt::TextFile::-1::1640339572::0::1::::<><>::
+::res://Sprout Lands - Sprites - Basic pack/Characters/::1647065030
+Basic Charakter Actions.png::CompressedTexture2D::4415473490338022284::1647064742::1680552984::1::::<><>::
+Basic Charakter Spritesheet.png::CompressedTexture2D::4278632360678180864::1644707584::1680552984::1::::<><>::
+Free Cow Sprites.png::CompressedTexture2D::3159514924006001190::1642889612::1680552984::1::::<><>::
+Tools.png::CompressedTexture2D::9150478702516731692::1647064964::1680552984::1::::<><>::
+::res://Sprout Lands - Sprites - Basic pack/Color pallete/::1666396050
+Color pallete in aseprite - screenshot.PNG::CompressedTexture2D::6872500452215223470::1666396024::1680552984::1::::<><>::
+::res://Sprout Lands - Sprites - Basic pack/Objects/::1666066194
+Apple.png::CompressedTexture2D::8115719713689076790::1695257014::1695257082::1::::<><>::
+Basic Furniture.png::CompressedTexture2D::9144323089554312704::1640219606::1680552984::1::::<><>::
+Basic Grass Biom things 1.png::CompressedTexture2D::1768655429724607039::1641431966::1680552984::1::::<><>::
+Basic Plants.png::CompressedTexture2D::5840592952526007553::1640217244::1680552984::1::::<><>::
+Basic tools and meterials.png::CompressedTexture2D::5567099146029927561::1647065290::1680552984::1::::<><>::
+Chest.png::CompressedTexture2D::5203403964949399172::1643161888::1680552984::1::::<><>::
+Paths.png::CompressedTexture2D::7250921530496528692::1642888766::1680552984::1::::<><>::
+Simple Milk and grass item.png::CompressedTexture2D::5493297933546001188::1642969088::1680552984::1::::<><>::
+Wood Bridge.png::CompressedTexture2D::3357655235622776433::1642888832::1680552984::1::::<><>::
+::res://Sprout Lands - Sprites - Basic pack/Sound/::1695323176
+item-pickup-v1.wav::AudioStreamWAV::2320572260209544991::1695623750::1695623752::1::::<><>::
+Peaceful Seascape.mp3::AudioStreamMP3::7817094223512768524::1695622888::1695623022::1::::<><>::
+::res://Sprout Lands - Sprites - Basic pack/Tilesets/::1666065988
+Fences.png::CompressedTexture2D::8333728698420897668::1640218532::1680552982::1::::<><>::
+Water.png::CompressedTexture2D::8613645168683146390::1640218122::1680552982::1::::<><>::
+Wooden House.png::CompressedTexture2D::2089643278350220667::1640219646::1680552982::1::::<><>::
+::res://Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/::1666066028
+::res://Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/new tiles/::1666066046
+Grass hill tiles v.2.png::CompressedTexture2D::2261548899085697549::1665550658::1680552984::1::::<><>::
+Grass tiles v.2.png::CompressedTexture2D::4311392028470493962::1665550598::1680552984::1::::<><>::
+Tall Grass hill tiles v.2.png::CompressedTexture2D::6501089834619368143::1665641860::1680552982::1::::<><>::
+::res://Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/old tiles/::1666065984
+Grass.png::CompressedTexture2D::8433202341009995815::1645316956::1680552982::1::::<><>::
+Hills.png::CompressedTexture2D::841035525769332050::1640211984::1680552982::1::::<><>::
+Tilled Dirt.png::CompressedTexture2D::114195442411755530::1644635436::1680552982::1::::<><>::
