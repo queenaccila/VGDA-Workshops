@@ -1,4 +1,4 @@
-[gd_scene load_steps=56 format=3 uid="uid://d4eojgs2qwf0d"]
+[gd_scene load_steps=49 format=3 uid="uid://d4eojgs2qwf0d"]
 
 [ext_resource type="Texture2D" uid="uid://dik245onepm0o" path="res://assets/Fantasy Assets/Skeleton/Skeleton/Sprite Sheets/Skeleton Idle.png" id="1_c5gd1"]
 [ext_resource type="Script" path="res://scripts/enemy.gd" id="1_k1d1f"]
@@ -66,37 +66,9 @@ region = Rect2(429, 0, 33, 32)
 atlas = ExtResource("1_u1l2y")
 region = Rect2(462, 0, 33, 32)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_7yps7"]
-atlas = ExtResource("2_3ye1u")
-region = Rect2(0, 0, 30, 32)
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_1q7up"]
 atlas = ExtResource("2_3ye1u")
 region = Rect2(30, 0, 30, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_nyndc"]
-atlas = ExtResource("2_3ye1u")
-region = Rect2(60, 0, 30, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_cohkq"]
-atlas = ExtResource("2_3ye1u")
-region = Rect2(90, 0, 30, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_5h584"]
-atlas = ExtResource("2_3ye1u")
-region = Rect2(120, 0, 30, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_d4au5"]
-atlas = ExtResource("2_3ye1u")
-region = Rect2(150, 0, 30, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_cbplc"]
-atlas = ExtResource("2_3ye1u")
-region = Rect2(180, 0, 30, 32)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_ktxls"]
-atlas = ExtResource("2_3ye1u")
-region = Rect2(210, 0, 30, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_dgamv"]
 atlas = ExtResource("1_c5gd1")
@@ -252,28 +224,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_7yps7")
-}, {
-"duration": 1.0,
 "texture": SubResource("AtlasTexture_1q7up")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_nyndc")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_cohkq")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_5h584")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_d4au5")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_cbplc")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_ktxls")
 }],
 "loop": true,
 "name": &"hit",
@@ -373,9 +324,8 @@ script = ExtResource("1_k1d1f")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." groups=["hit"]]
 sprite_frames = SubResource("SpriteFrames_r0amh")
-animation = &"death"
+animation = &"hit"
 autoplay = "idle"
-frame = 4
 flip_h = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." groups=["hit"]]

@@ -13,9 +13,6 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 #Hitbox variable
 @onready var hitbox = $Area2D/CollisionShape2D
 
-#Player variable
-@onready var player = $"."
-
 
 func _physics_process(delta):
 	# Add the gravity.
@@ -52,6 +49,7 @@ func _physics_process(delta):
 	if Input.is_action_just_pressed("attack"):
 		hitbox.disabled = false
 		animated_sprite.play("attack")
+		await get_tree().create_timer(0.3).timeout
 	else:
 		hitbox.disabled = true
 	move_and_slide()

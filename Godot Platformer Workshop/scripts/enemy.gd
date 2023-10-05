@@ -6,7 +6,7 @@ var health = 30
 func take_damage(n):
 	health = health - n
 	enemy_sprite.animation = "hit"
-	await get_tree().create_timer(1.0).timeout
+	await get_tree().create_timer(0.3).timeout
 	enemy_sprite.animation = "idle"
 	
 		
