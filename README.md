@@ -13,12 +13,12 @@ Check out our [documentation](https://docs.google.com/document/d/1dP2Y9i_b2a-Oon
 All of our Godot workshops are made in version **_4.1.1_**
 
 ### 2D-Topdown-Godot  
-Learn the basics of Godot through a simple 2D top-down project! [Work In Progress]  
+Learn the basics of Godot through a simple 2D top-down project!   
 
 ![2D Topdown Godot](https://github.com/queenaccila/VGDA-Unity-Workshops/assets/76551915/b72e18cc-95ef-4be9-ae89-e1e1fbd125dc)
 
 ### 2D-Platformer-Godot  
-Learn more features in Godot through a basic 2D platformer game! [Work In Progress]
+Learn more features in Godot through a basic 2D platformer game!
 
 # Unreal Engine Workshops
 
