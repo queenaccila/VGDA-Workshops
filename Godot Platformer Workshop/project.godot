@@ -12,12 +12,16 @@ config_version=5
 
 config/name="Platformer Workshop"
 run/main_scene="res://scenes/Levels/real_level_1.tscn"
-config/features=PackedStringArray("4.1", "GL Compatibility")
+config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [display]
 
 window/stretch/scale=3.0
+
+[dotnet]
+
+project/assembly_name="Platformer Workshop"
 
 [editor]
 
