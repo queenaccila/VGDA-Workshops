@@ -2,6 +2,8 @@ extends RigidBody2D
 
 var health = 30
 @onready var enemy_sprite = $AnimatedSprite2D
+#@onready var player = $Player/AnimatedSprite2D
+var player2D
 
 func take_damage(n):
 	health = health - n
@@ -12,5 +14,7 @@ func take_damage(n):
 		
 	if (health <= 0):
 		enemy_sprite.play("death")
+		#player.getPoints(5)
+		
 		
 
