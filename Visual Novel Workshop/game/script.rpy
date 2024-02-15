@@ -28,6 +28,8 @@ label start:
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
+    e "This is a test to see if Github is registering this"
+
     # This ends the game.
 
     return
