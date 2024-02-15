@@ -30,6 +30,8 @@ label start:
 
     e "This is a test to see if Github is registering this"
 
+    e "Second test"
+
     # This ends the game.
 
     return
