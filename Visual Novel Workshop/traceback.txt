@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 8, in script
+    define bHouse = background("barbieHouse.jpg")
+  File "game/script.rpy", line 8, in <module>
+    define bHouse = background("barbieHouse.jpg")
+NameError: name 'background' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 8, in script
+    define bHouse = background("barbieHouse.jpg")
+  File "C:\Users\rexer\Documents\RenPy\renpy-8.2.0-sdk\renpy\ast.py", line 2219, in execute
+    self.set()
+  File "C:\Users\rexer\Documents\RenPy\renpy-8.2.0-sdk\renpy\ast.py", line 2233, in set
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "C:\Users\rexer\Documents\RenPy\renpy-8.2.0-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 8, in <module>
+    define bHouse = background("barbieHouse.jpg")
+NameError: name 'background' is not defined
+
+Windows-10-10.0.22621 AMD64
+Ren'Py 8.2.0.24012702
+Visual Novel Workshop 1.0
+Thu Feb 15 17:18:46 2024

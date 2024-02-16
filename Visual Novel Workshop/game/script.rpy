@@ -3,34 +3,30 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
-
+define b = Character("Barbie")
+define k = Character("Ken")
+# define bHouse = background("barbieHouse.jpg")
+# define song = music("Dua Lipa Dance The Night From Barbie The Album Official Lyric Video.mp3")
 
 # The game starts here.
 
 label start:
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
+    # Show a background. 
+    play music "Dua Lipa Dance The Night From Barbie The Album Official Lyric Video.mp3"
+    scene bg barbieHousez
+    with fade
 
-    scene bg room
+    # This shows a character sprite.
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
-
-    show eileen happy
+    show barbie at right
+    show ken at left
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    k "Hi Barbie!"
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
-
-    e "This is a test to see if Github is registering this"
-
-    e "Second test"
+    b "Hi Ken!"
 
     # This ends the game.
 
