@@ -2,9 +2,17 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 18: expected statement.
-    background barbieHouse
-                          ^
+File "game/script.rpy", line 39: menu statement expects a non-empty block.
+    menu:
+        ^
+
+File "game/script.rpy", line 41: expected statement.
+    "Yeah!":
+           ^
+
+File "game/script.rpy", line 44: expected statement.
+    "No thanks, I'm meeting President Barbie":
+                                             ^
 
 Ren'Py Version: Ren'Py 8.2.0.24012702
-Thu Feb 15 17:20:58 2024
+Sun Feb 18 12:32:11 2024
