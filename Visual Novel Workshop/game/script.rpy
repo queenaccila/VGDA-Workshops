@@ -1,21 +1,17 @@
 ﻿# The script of the game goes in this file.
 
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
+# Declare characters used by this game. 
 define b = Character("Barbie")
 define k = Character("Ken")
-image bg house = "images/Barbie House.jpg"
-# define bHouse = background("barbieHouse.jpg")
-# define song = music("Dua Lipa Dance The Night From Barbie The Album Official Lyric Video.mp3")
+image bg bHouse = "images/bHouse.jpg"
 
 # The game starts here.
 
 label start:
 
     # Show a background. 
+    scene bg bHouse
     play music "Dua Lipa Dance The Night From Barbie The Album Official Lyric Video.mp3"
-    scene house
     with fade
 
     # This shows a character sprite.
