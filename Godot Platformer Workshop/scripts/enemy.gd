@@ -14,6 +14,9 @@ func take_damage(n):
 		
 	if (health <= 0):
 		enemy_sprite.play("death")
+		if(enemy_sprite.animation_finished):
+			queue_free()
+		
 		#player.getPoints(5)
 		
 		
