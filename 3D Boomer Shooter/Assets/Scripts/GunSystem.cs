@@ -30,8 +30,6 @@ public class GunSystem : MonoBehaviour
     {
         MyInput();
 
-        //SetText
-        //text.SetText(bulletsLeft + " / " + magazineSize);
     }
     private void MyInput()
     {
@@ -69,9 +67,6 @@ public class GunSystem : MonoBehaviour
             }
         }
 
-        //ShakeCamera
-        //camShake.Shake(camShakeDuration, camShakeMagnitude);
-
         bulletsLeft--;
         bulletsShot--;
 
@@ -93,9 +88,5 @@ public class GunSystem : MonoBehaviour
     {
         bulletsLeft = magazineSize;
         reloading = false;
-    }
-
-    public string bltCount(){
-        return bulletsLeft + "/" + magazineSize;
     }
 }
