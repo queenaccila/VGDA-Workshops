@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+3D Boomer Shooter/[Ll]ibrary/
+3D Boomer Shooter/[Tt]emp/
+3D Boomer Shooter/[Oo]bj/
+3D Boomer Shooter/[Bb]uild/
+3D Boomer Shooter/[Bb]uilds/
+3D Boomer Shooter/[Ll]ogs/
+3D Boomer Shooter/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
